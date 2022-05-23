@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahsa
-- 👀 I’m interested in data science and machine learning
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 a frontend web development enthusiast!
+- 💞️ I’m looking to collaborate on web development projects
 
 <!---
 mahsakhorshiddoust/mahsakhorshiddoust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
